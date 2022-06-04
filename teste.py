@@ -1,6 +1,7 @@
 print("Alo Mundo")
 print("Linha 2")
 print("Gustavo Mendes")
+print("Quarta linha")
 print("Nova Linha")
 
 valor = 10
